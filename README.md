@@ -1,6 +1,6 @@
 # Elastic Stack Workshop
 
-The workshop is a hands on "Getting Started with Elastic Stack" for beginners.
+The workshop is a hands-on "Getting Started with Elastic Stack" for beginners.
 
 It is composed of an explanation, live demo of the instalation and a hands on pratice where the participants will install in their own machines.
 
