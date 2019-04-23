@@ -26,7 +26,7 @@ PUT my_index/_doc/1
     * Search for all documents
     * Update the first_name to “John Joe”
 
-* Make an index patter and search in it using the Discover 
+* Make an index pattern of the "my_index" and search in it using the Discover 
 
 https://www.elastic.co/guide/en/kibana/current/tutorial-define-index.html
 
